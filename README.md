@@ -1,9 +1,7 @@
 # Student-Information-Management-System
-Year 1 project built with java
+Year 1 project built with java. This system is built to read data from the file and manage the student’s information. In the system, many features are included for users to best organise students' data in readability and store in another new file.
 
-# Program description
-This system is built to read data from the file and manage the student’s information. In the system, many features are included for users to best organise students' data in readability and store in another new file. The followings are the features included, and functions brief explained:
-
+# Features
 1.Exit the program.
 
 2.User will be asked to insert a file name and read in one undergraduate or graduate student’s data from the file.
